@@ -2,7 +2,6 @@
 
 Contributors: PGeorgiev
 Tags: two-columns
-
 Requires at least: 4.5
 Tested up to: 4.8
 Stable tag: 1.8
@@ -33,6 +32,11 @@ Serdika is distributed under the terms of the GNU GPL
 
 
 == Changelog ==
+
+= 20 June 2020 =
+* Removed TGM plugin
+* Change Author URI 
+
 
 = 27 January, 2020 =
 * Changed correctly URL
