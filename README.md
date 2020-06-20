@@ -1,0 +1,2 @@
+# Serdika
+Serdika - WordPress theme
