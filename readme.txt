@@ -2,7 +2,6 @@
 
 Contributors: PGeorgiev
 Tags: two-columns
-
 Requires at least: 4.5
 Tested up to: 4.8
 Stable tag: 1.8
@@ -33,6 +32,11 @@ Serdika is distributed under the terms of the GNU GPL
 
 
 == Changelog ==
+
+= 20 June 2020 =
+* Removed TGM plugin
+* Change Author URI 
+
 
 = 27 January, 2020 =
 * Changed correctly URL
@@ -72,6 +76,5 @@ Serdika is distributed under the terms of the GNU GPL
 == Credits ==
 * Based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
-* class-tgm-plugin-activation.php https://github.com/TGMPA/TGM-Plugin-Activation [GNU General Public License v2.0]
 * FontAwesome https://fontawesome.com/ 
 * Google Font Playfair Display - https://fonts.google.com/specimen/Playfair+Display?selection.family=Playfair+Display

@@ -148,44 +148,6 @@ wp_enqueue_style( 'serdika-google-fonts', 'https://fonts.googleapis.com/css?fami
 add_action( 'wp_enqueue_scripts', 'serdika_add_google_fonts' );
 
 
-
-
-
-
-/**
- * Load TGM Activation file.
- */
-require get_template_directory() . '/inc/class-tgm-plugin-activation.php';
-
-if ( ! function_exists( 'serdika_register_recommended_plugins' ) ) :
-
-    /**
-     * Register recommended plugins.
-     *
-     * @since 1.0.0
-     */
-    function serdika_register_recommended_plugins() {
-        $plugins = array(
-            array(
-                'name'     => esc_html__( 'One Click Demo Import', 'serdika' ),
-                'slug'     => 'one-click-demo-import',
-                'required' => false,
-            ),
-        );
-
-        $config = array();
-
-        tgmpa( $plugins, $config );
-    }
-
-endif;
-
-
-
-add_action( 'tgmpa_register', 'serdika_register_recommended_plugins' );
-
-
-
 /**
  * Implement the Custom Header feature.
  */
