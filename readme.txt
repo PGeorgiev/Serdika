@@ -33,6 +33,9 @@ Serdika is distributed under the terms of the GNU GPL
 
 == Changelog ==
 
+= 5 September 2020 =
+* Removed background color /unused/
+
 = 20 June 2020 =
 * Removed TGM plugin
 * Change Author URI 
