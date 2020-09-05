@@ -4,7 +4,7 @@ Theme URI: https://stara-zagora.net/
 Author: Plamen Georgiev
 Author URI: https://pgeorgiev.dev/
 Description: Serdika - Minimal blog theme
-Version: 1.8
+Version: 1.9
 Requires at least: 4.5
 Requires PHP: 5.3;
 Tested up to: 4.8
@@ -100,7 +100,6 @@ h6 + p {} h1 + p {
 }
 
 body {
-    background: #FFF;
     background: fixed;
     width: 80%;
     margin: 0px auto;
@@ -532,3 +531,4 @@ img {
 .entry-title:hover {
     opacity: .6;
 }
+
