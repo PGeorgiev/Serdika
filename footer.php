@@ -24,7 +24,7 @@
 			<span class="sep"> | </span>
 				<?php
 				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'serdika' ), 'serdika', '<a href="https://stara-zagora.net">Plamen Georgiev</a>' );
+				printf( esc_html__( 'Theme: %1$s by %2$s.', 'serdika' ), 'serdika', '<a href="https://pgeorgiev.dev/">Plamen Georgiev</a>' );
 				?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
