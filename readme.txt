@@ -3,8 +3,8 @@
 Contributors: PGeorgiev
 Tags: two-columns
 Requires at least: 4.5
-Tested up to: 4.8
-Stable tag: 1.9
+Tested up to: 5.7
+Stable tag: 2.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
@@ -30,8 +30,13 @@ Serdika WordPress Theme, Copyright 2018 PGeorgiev
 Serdika is distributed under the terms of the GNU GPL
 
 
-
 == Changelog ==
+
+= 14 March 2021 =
+* Fixed header image 
+* Added new img folder and default image for header
+* Tested up to version5.7
+* Changed several URL 
 
 = 5 September 2020 =
 * Removed background color /unused/
@@ -81,3 +86,4 @@ Serdika is distributed under the terms of the GNU GPL
 * normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
 * FontAwesome https://fontawesome.com/ 
 * Google Font Playfair Display - https://fonts.google.com/specimen/Playfair+Display?selection.family=Playfair+Display
+* Image - Design by Matt - https://stocksnap.io/photo/top-workspace-KO0EB5EZ7E

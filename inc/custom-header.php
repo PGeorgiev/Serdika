@@ -18,7 +18,7 @@
  */
 function serdika_custom_header_setup() {
 	add_theme_support( 'custom-header', apply_filters( 'serdika_custom_header_args', array(
-		'default-image'          => '',
+		'default-image'    		 => get_template_directory_uri() . './img/default-image.jpg',
 		'default-text-color'     => '000000',
 		'width'                  => 800,
 		'height'                 => 400,
